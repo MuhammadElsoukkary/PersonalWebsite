@@ -124,6 +124,19 @@ dist
 
 # yarn v2
 .yarn/cache
+
+# Express.js
+public/uploads/
+tmp/
+uploads/
+
+# Next.js
+.next/
+out/
+build/
+.vercel
+.env*.local
+next-env.d.ts
 .yarn/unplugged
 .yarn/build-state.yml
 .yarn/install-state.gz
